@@ -2,6 +2,7 @@
 TypeScriptとWebGL習熟のために作ったブロック崩しです。
 build/index.htmlを開いて実行します。
 主にsrcフォルダ内が書いたコードで、Webpackによりbuild/index.jsにまとめられています。
+[こっち](http://uncotechhack.net/preview/breakout_webgl/)にも上げています
 
 # コーディング上の特徴
 - イベント駆動
